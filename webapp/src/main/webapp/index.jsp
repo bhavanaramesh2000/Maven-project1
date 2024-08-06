@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Deployed on Container using jenkins with ansible and docker hub on 12pm</h1>
+   <h1> Deployed on Container using jenkins with ansible and docker hub on 1pm</h1>
 
   
 </form>
